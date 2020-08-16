@@ -1,0 +1,20 @@
+h1{
+    color: #A593E0;
+    background-color: honeydew;
+    padding-bottom: 10px;
+    padding-top: :20px;
+}
+h2{
+    color: #566270;
+    padding-top: 10px;
+    background-color: aliceblue;
+}
+h3{
+    padding-top: 10px;
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: #FFFFF3;
+    font-family: 游明朝;
+}
